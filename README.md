@@ -1,2 +1,2 @@
 # BCA-
-This repository I'm creating for my practice.
+Created for my practice.
